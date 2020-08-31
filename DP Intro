@@ -5,5 +5,13 @@ How to check for DP properties?
 If a problem can be solved recursively by calling same input number of times,It can be solved using DP.
 
 Steps to solve using DP
-See how the problems are defined in terms of subproblems recursively.(Recursion)
-Check whether we can use some kind table or data structure.(Memoization)
+1.See how the problems are defined in terms of subproblems recursively.(Recursion)
+2.Check whether we can use some kind table or data structure.(Memoization)
+
+
+Process of obtaining solution 
+1.Complete understanding of the problem plays major role in initiating the solution.
+2.After getting a complete idea on what is needed and what can be used, always try to obtain a recursive solution(naive).
+3.Try to improve it and include edge,base cases.
+4.Now try to use data structures like arrays,vectors,matrices or heaps inorder to store the repeatedly calculated values.
+5.After submitting the solution,Try checking editorials and discussions so that we can understand different ways to solve the problem and the other hand we can find efficient algorithms as well.
