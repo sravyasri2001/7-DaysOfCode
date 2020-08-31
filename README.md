@@ -1,7 +1,7 @@
 # 7-DaysOfCode
 
 
-# This Repository refers to challenge of 7-DaysOfCode that I have committed voluntarily,where i will uploading all my files of code at the end of the 7th day.(31st August 2020)
+# This Repository refers to challenge of 7-DaysOfCode that I have committed voluntarily,where I will be uploading all files of code at the end of the 7th day.(31st August 2020)
 1.The main reason behind uploading it at the end is so that I can revise all concepts at a glance at the end of period.
 
 2.And the other reason is I can come to a conclusion on what I have learned and what new challenges can I commit to.
