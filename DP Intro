@@ -1,0 +1,9 @@
+To simply say,
+Dynamic Programming = Recursion + Memoization
+
+How to check for DP properties?
+If a problem can be solved recursively by calling same input number of times,It can be solved using DP.
+
+Steps to solve using DP
+See how the problems are defined in terms of subproblems recursively.(Recursion)
+Check whether we can use some kind table or data structure.(Memoization)
